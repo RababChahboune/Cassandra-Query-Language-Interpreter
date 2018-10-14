@@ -1,0 +1,1 @@
+Cql interpreter in C language.
